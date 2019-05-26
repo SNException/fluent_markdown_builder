@@ -58,9 +58,8 @@ md = Markdown.new('The fluent markdown builder gem')
              .quote('Have a nice day')
              .to_s
 ```
-
-Now you can write the (string) content into a file for example and display it in
-a markdown viewer.
+The code snippet above would generate the following content viewed in a markdown viewer:
+![](images/result_md.PNG)
 
 ## Development
 
